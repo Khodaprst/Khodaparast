@@ -7,6 +7,4 @@ solid grip on Data Structures, Algorithms, and DBMS. I always want to learn new 
 I am an engineer who loves to solve problems and use the best tool for the problem.
 
 
-#watch snake eating my github contributions!
-#![snake gif]#(https://github.com/Khodaprst/Khodaparast/blob/output/github-contribution-grid-snake.svg)
-
+## Check my purple python!
