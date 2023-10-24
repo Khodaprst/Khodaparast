@@ -8,3 +8,6 @@ I am an engineer who loves to solve problems and use the best tool for the probl
 
 <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]">
 
+## watch snake eating my github contributions!
+
+![snake gif](https://github.com/Khodaprst/Khodaparast/blob/output/github-contribution-grid-snake.svg)
